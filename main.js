@@ -22,7 +22,7 @@
     // of different video formats to add
     src: [
       {
-        src: 'https://xiaozao-time.oss-cn-beijing.aliyuncs.com/de8ug.vip/bgvideo-%E5%B0%8F%E7%81%B6%E6%97%B6%E9%97%B4.mov?Expires=1585569179&OSSAccessKeyId=TMP.3Ke9Cked6byuMNcaayX4WjNWqMDRpgViVXUxHivr9GHRFvK2SzcLjNv2URdnAPUinvv3HJ6JjQbZCrmapmNcJNkt6iV2Ld&Signature=KVrmi%2FheE0NxW5WP19HoHEKjej4%3D',
+        src: 'https://xiaozao-time.oss-cn-beijing.aliyuncs.com/de8ug.vip/bgvideo-%E5%B0%8F%E7%81%B6%E6%97%B6%E9%97%B4.mov',
         type: 'video/mp4'
       },
       // {
