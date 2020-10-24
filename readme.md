@@ -6,9 +6,7 @@
 
 在这里，我把学习编程划分为两大发展方向：图个乐和抢饭碗。
 
-**点击[这里](./xiaozao.html)，查看两大方向需要学习的各种技术**.
-
-<iframe src="//player.bilibili.com/player.html?aid=372549762&bvid=BV1MZ4y1V7qk&cid=247975954&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=372549762&bvid=BV1MZ4y1V7qk&cid=247975954&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 
 图个乐主要是源于兴趣，或者想开发一点小工具解决一些工作中重复性的工作。
 抢饭碗主要是为开发工作做准备，目标是通过写代码当个程序员，在高薪的IT行业里抢个饭碗。
@@ -26,6 +24,12 @@
 
 等等等等，每一个问题拆解开，又会是无穷多各式各样的小问题，如果你正在被这些问题困扰，那么，请来到DE8UG小灶时间，DE8UG帮你解决这些问题。具体可查看下面会员介绍中的**个性化辅导私人答疑**
 
+## 三大重点
+
+- **点击[这里](./xiaozao.html)，查看两大方向需要学习的各种技术**.
+- **答疑文档模板在[这里]()，注意看：如果问题没有解答居然还要退费，这估计是绝无仅有的。**
+- 会员详情**点击[这里](https://appLmzD9vZC4926.h5.xiaoeknow.com/v1/usercenter/super_vip/index/s_5f922cd85ab43_iIrVm2fG51?type=15)，扫码查看**
+
 
 ## 课程说明
 
@@ -41,7 +45,7 @@
 ## 会员介绍
 
 - 相应时间内不限次数查看「DE8UG小灶时间」内除直播外所有课程内容，包括已有内容，正在更新内容，新增内容
-- 个性化辅导私人答疑，全程记录在线文档，认认真真记录你的问题和解答。答疑文档链接请在购买会员后，发送购买截图到公众号「Python随身听」后台获取。**答疑文档模板在这里：，注意看：如果问题没有解答居然还要退费，这估计是绝无仅有的。**
+- 个性化辅导私人答疑，全程记录在线文档，认认真真记录你的问题和解答。答疑文档链接请在购买会员后，发送购买截图到公众号「Python随身听」后台获取。
 - 【终身会员】终身赠送git账户的一对一代码review和答疑
 - 【终身会员】每个月带你进行一次总结与学习规划
 
