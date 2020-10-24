@@ -22,7 +22,7 @@
 
 等等等等，每一个问题拆解开，又会是无穷多各式各样的小问题，如果你正在被这些问题困扰，那么，请来到DE8UG小灶时间，DE8UG帮你解决这些问题。具体可查看下面会员介绍中的**个性化辅导私人答疑**
 
-<iframe src="xiaozao.html"></iframe>
+<iframe style="width: 1600px; height: 1200px" src="xiaozao.html"></iframe>
 
 ## 课程说明
 
