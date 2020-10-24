@@ -8,6 +8,8 @@
 
 **点击[这里](./xiaozao.html)，查看两大方向需要学习的各种技术**.
 
+<iframe src="//player.bilibili.com/player.html?aid=372549762&bvid=BV1MZ4y1V7qk&cid=247975954&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 图个乐主要是源于兴趣，或者想开发一点小工具解决一些工作中重复性的工作。
 抢饭碗主要是为开发工作做准备，目标是通过写代码当个程序员，在高薪的IT行业里抢个饭碗。
 
