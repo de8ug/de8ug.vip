@@ -27,7 +27,7 @@
 
 ## 三大重点
 
-- **点击[这里](./xiaozao.html)，（电脑端查看更好）查看两大方向需要学习的各种技术**.
+- **点击[这里](https://de8ug.gitee.io/de8ug.vip/xiaozao.html)，（电脑端查看更好）查看两大方向需要学习的各种技术**.
 - **答疑文档模板在[这里，【腾讯文档】模板-DE8UG小灶时间vip答疑专用](https://docs.qq.com/doc/DT3hzWnpYWHVpaUpn)，注意看：如果问题没有解答居然还要退费，这估计是绝无仅有的。**
 - 会员详情**点击[这里](https://appLmzD9vZC4926.h5.xiaoeknow.com/v1/usercenter/super_vip/index/s_5f922cd85ab43_iIrVm2fG51?type=15)，扫码查看**
 
