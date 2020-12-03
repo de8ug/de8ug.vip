@@ -1,5 +1,7 @@
 theme: jekyll-theme-hacker
 
-markdown: redcarpet
-redcarpet:
-  extensions: [with_toc_data]
+rdiscount:
+  extensions:
+    - autolink      # greedily urlify links
+    - footnotes     # footnotes
+    - smart         # typographic substitutions with SmartyPants
