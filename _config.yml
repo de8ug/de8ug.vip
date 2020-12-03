@@ -1,7 +1,1 @@
 theme: jekyll-theme-hacker
-
-rdiscount:
-  extensions:
-    - autolink      # greedily urlify links
-    - footnotes     # footnotes
-    - smart         # typographic substitutions with SmartyPants
